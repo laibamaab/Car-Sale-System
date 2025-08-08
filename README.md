@@ -75,9 +75,8 @@ A console-based Car Sale Management System written in C++ that allows users to m
 1. Ensure you have a C++ compiler installed (e.g. `g++`)
 2. Make sure the required `list.h` file is present in the same directory.
 3. Compile:
-   ```bash
+   `bash
    g++ main.cpp -o car_sale_system
-````
 
 4. Run:
 
@@ -91,44 +90,39 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ### Sell Menu
 
-```text
+text
 1: Display all information
 2: Buy Car
 3: Total amount of all Cars
 4: Store information in file
 5: Main Menu
-```
+
 
 ### Car Menu
 
-```text
+text
 1: Display all information
 2: Search by ID
 3: Search by Model
 4: Update information
 5: Delete information
 6: Main Menu
-```
+
 
 ### Customer & Employee Menus
 
-```text
+text
 1: Display all information
 2: Search by ID
 3: Search by Name
 4: Update information
 5: Delete information
 6: Main Menu
-```
-
----
 
 ## 📁 File Handling
 
 * All records and data can be saved to a file for persistence
 * Ensures data is not lost after program termination
-
----
 
 ## 🙌 Author
 
@@ -138,8 +132,6 @@ This system was developed as part of an academic project to demonstrate the appl
 * File Handling
 * Structured Menu Navigation
 * Real-world scenario modeling
-
----
 
 ## 📄 License
 
