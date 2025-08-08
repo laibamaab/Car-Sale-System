@@ -1,12 +1,12 @@
-# 🚗 Car Sale System (C++)
+# Car Sale System (C++)
 
 A console-based Car Sale Management System written in C++ that allows users to manage cars, customers, employees, and sales operations. This system uses Object-Oriented Programming (OOP) principles to offer an interactive, menu-driven approach for maintaining vehicle inventory and processing transactions.
 
 ---
 
-## 📌 Features
+## Features
 
-### 🔧 Core Functionality
+### Core Functionality
 - Menu-driven system with categorized operations
 - Manages:
   - Cars
@@ -16,7 +16,7 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ---
 
-### 🚘 Car Management
+### Car Management
 - View all car records
 - Search cars by:
   - Car ID
@@ -27,21 +27,21 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ---
 
-### 🧍 Customer Management
+### Customer Management
 - Display all customers
 - Search by ID or name
 - Update or delete customer data
 
 ---
 
-### 🧑‍💼 Employee Management
+### Employee Management
 - Display employee records
 - Search by ID or name
 - Update or delete employee information
 
 ---
 
-### 💰 Sale Management
+### Sale Management
 - Buy a car
 - View total price of all cars
 - Display all system data
@@ -49,7 +49,7 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ---
 
-## 🧱 Code Structure
+## Code Structure
 
 - `menu` class handles all menus and interaction logic
 - Uses a `list` class (from `list.h`) to perform all data operations
@@ -61,7 +61,7 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Language:** C++
 - **IDE/Compiler:** Any standard C++ compiler (e.g., Code::Blocks, DevC++, g++, MSVC)
@@ -69,7 +69,7 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Ensure you have a C++ compiler installed (e.g. `g++`)
 2. Make sure the required `list.h` file is present in the same directory.
@@ -85,7 +85,7 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ---
 
-## 🧭 Sample Menu Structure
+## Sample Menu Structure
 
 ### Sell Menu
 
@@ -116,12 +116,12 @@ A console-based Car Sale Management System written in C++ that allows users to m
 6: Main Menu
 
 
-## 📁 File Handling
+## File Handling
 
 * All records and data can be saved to a file for persistence
 * Ensures data is not lost after program termination
 
-## 🙌 Author
+## uthor
 
 This system was developed as part of an academic project to demonstrate the application of:
 
@@ -130,6 +130,6 @@ This system was developed as part of an academic project to demonstrate the appl
 * Structured Menu Navigation
 * Real-world scenario modeling
 
-## 📄 License
+## License
 
 This project is released under the MIT License.
