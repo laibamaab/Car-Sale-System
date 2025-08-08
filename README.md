@@ -1,4 +1,3 @@
-
 # 🚗 Car Sale System (C++)
 
 A console-based Car Sale Management System written in C++ that allows users to manage cars, customers, employees, and sales operations. This system uses Object-Oriented Programming (OOP) principles to offer an interactive, menu-driven approach for maintaining vehicle inventory and processing transactions.
@@ -90,7 +89,6 @@ A console-based Car Sale Management System written in C++ that allows users to m
 
 ### Sell Menu
 
-text
 1: Display all information
 2: Buy Car
 3: Total amount of all Cars
@@ -100,7 +98,6 @@ text
 
 ### Car Menu
 
-text
 1: Display all information
 2: Search by ID
 3: Search by Model
@@ -111,13 +108,13 @@ text
 
 ### Customer & Employee Menus
 
-text
 1: Display all information
 2: Search by ID
 3: Search by Name
 4: Update information
 5: Delete information
 6: Main Menu
+
 
 ## 📁 File Handling
 
